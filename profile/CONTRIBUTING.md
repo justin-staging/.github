@@ -1,6 +1,5 @@
 # Contributing
-
-How MCSR mod development works
+or, How MCSR mod development works
 
 ## Contributing code
 Generally, if you want to contribute to a mod, the first step would be to make a pull request to an active maintainer. If you don't where to find an active repo, you can ask in the official discord or look in the commit history of the archive. If no maintainers are currently active and your pull request has gone without response, the next step would be to directly contact the mod team. In both cases, the next step for the update would be legalization.
